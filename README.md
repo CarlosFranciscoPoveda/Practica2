@@ -5,4 +5,5 @@ prueba si sube el archivo por segunda vez
 Carlos Poveda
 Hola mundo gamer 2024 la actulizacion es mas facil se debemos tener en cuenta el los codigos 
 git add README.md
+git commit -m "Cambio para codigo"
 git push origin main
